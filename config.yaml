@@ -1,0 +1,8 @@
+path: C:/Users/fth/Documents/AI PROJECTS/LicensePlateProject/data/AlgerianLicencePlates_Yolo5
+#path: /content/drive/MyDrive/ComputerVision/license_with_YOLO26
+train: train/images
+val: valid/images
+
+
+names:
+  0: License_plate
